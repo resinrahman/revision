@@ -1,0 +1,9 @@
+.navbar{
+    height: 70px;
+    border: 2px solid black;
+    display: flex;
+}
+.d1,.d2,.d3,.d4{
+    width: 200px;
+    height: 70px;
+}

@@ -1,0 +1,112 @@
+.mainbox{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+}
+.subox{
+ 
+    width: 100px;
+    height: 100px;
+    display: flex;
+ 
+}
+.L1{
+    width: 120px;
+    height: 120px;
+    border-right: black solid 10px;
+    border-bottom: black solid 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    font-size: 90px;
+}
+.L2{
+    width: 120px;
+    height: 120px;
+    border-right: black solid 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    font-size: 90px;
+}
+.L3{
+    width: 120px;
+    height: 120px;
+    border-right: black solid 10px;
+    border-top: black solid 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    font-size: 90px;
+}
+.C1{
+    width: 120px;
+    height: 120px;
+        border-bottom: black solid 10px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-content: center;
+        font-size: 90px;
+    }
+.C2{
+    
+    width: 120px;
+    height: 120px;
+    border-bottom: black solid 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    font-size: 90px;
+    }
+    .C3{
+    
+        width: 120px;
+        height: 120px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-content: center;
+        font-size: 90px;
+           
+        }
+.R1{
+    width: 120px;
+    height: 120px;
+    border-left: black solid 10px;
+    border-bottom: black solid 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    font-size: 90px
+}
+.R2{
+    width: 120px;
+    height: 120px;
+    border-left: black solid 10px;
+    border-bottom: black solid 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    font-size: 90px
+}
+.R3{
+    width: 120px;
+    height: 120px;
+    border-left: black solid 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    font-size: 90px
+ 
+}
+

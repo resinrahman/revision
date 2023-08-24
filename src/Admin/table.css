@@ -1,0 +1,11 @@
+.maintable{
+    border: 1px solid black;
+    display: flex;
+    width: fit-content;
+}
+.tbtable{
+    border: 1px solid black;
+}
+.trtable{
+    border: 1px solid black;
+}
